@@ -11,36 +11,39 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+1.Open the software and create a new sketch.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+2.Select the required sketch plane.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+3.Use sketch tools to draw the required shapes.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="320" height="506" alt="Screenshot 2026-11-15 124347" src="https://github.com/user-attachments/assets/91e6f98a-75db-4342-a110-b3f9d0314ece" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+4.Modify the sketch using editing tools.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="202" height="357" alt="Screenshot 2026-11-15 124514" src="https://github.com/user-attachments/assets/b75a1f15-d18a-4bd1-b6b0-e9970c08d15f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+5.Check the sketch dimensions using inspect.
 
-7.	Use extrude option to convert 3D model from sketch
+<img width="291" height="492" alt="Screenshot 2026-11-15 124545" src="https://github.com/user-attachments/assets/d872d8d4-554d-4f50-a58c-4b9fe1912c2f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
+6.Click finish sketch to complete the drawing.
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
+<img width="256" height="172" alt="Screenshot 2026-11-15 124609" src="https://github.com/user-attachments/assets/6572aec8-7491-4eae-b28e-71c12570792f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
+7.Use extrude.
 
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+<img width="452" height="560" alt="Screenshot 2026-11-15 133419" src="https://github.com/user-attachments/assets/cb604876-2604-420c-b554-4fcc1c01778a" />
 
-## OUTPUT:
+8.Change to drawing mode.
+
+<img width="336" height="412" alt="Screenshot 2026-11-15 124628" src="https://github.com/user-attachments/assets/e0147308-fc71-49bf-9deb-a9d85e70bfb9" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
+
+<img width="1037" height="685" alt="Screenshot 2026-11-11 141825" src="https://github.com/user-attachments/assets/4f3cc58a-bbe2-4112-bb83-3acf07d4f978" />
+
+<img width="1002" height="701" alt="Screenshot 2026-11-11 142201" src="https://github.com/user-attachments/assets/80ecd278-a3dd-4d09-81f4-29a1d756a738" />
+
